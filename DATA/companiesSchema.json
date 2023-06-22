@@ -1,0 +1,100 @@
+{
+  "title": "companies",
+  "description": "Auto generated JSON schema based on the 'companies' file",
+  "type": "object",
+  "properties": {
+    "companies": {
+      "type": "array",
+      "items": {
+        "properties": {
+          "createdAt": {
+            "type": "string"
+          },
+          "website": {
+            "type": "array",
+            "items": {
+              "properties": {
+                "url": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "address": {
+            "type": "object",
+            "properties": {
+              "zipcode": {
+                "type": "string"
+              },
+              "country": {
+                "type": "string"
+              },
+              "city": {
+                "type": "string"
+              },
+              "street": {
+                "type": "string"
+              }
+            }
+          },
+          "phone": {
+            "type": "object",
+            "properties": {
+              "number": {
+                "type": "string"
+              }
+            }
+          },
+          "activities": {
+            "type": "array",
+            "items": {}
+          },
+          "name": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "contacts": {
+            "type": "array",
+            "items": {
+              "properties": {
+                "firstname": {
+                  "type": "string"
+                },
+                "role": {
+                  "type": "string"
+                },
+                "phones": {
+                  "type": "array",
+                  "items": {
+                    "properties": {
+                      "number": {
+                        "type": "string"
+                      },
+                      "id": {
+                        "type": "string"
+                      },
+                      "label": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                },
+                "email": {
+                  "type": "string"
+                },
+                "lastname": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "updatedAt": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

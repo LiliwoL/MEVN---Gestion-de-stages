@@ -1,0 +1,99 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Lycée Fenelon",
+      "createdAt": "2015-01-27T19:32:12.000Z",
+      "updatedAt": "2023-01-27T19:32:12.000Z",
+      "address": {
+        "street": "36, rue Massiou",
+        "zipcode": "17000",
+        "city": "La Rochelle",
+        "country": "France"
+      },
+      "phone": {        
+        "type": "standard",
+        "number": "0505050505"
+      },
+      "website": [
+        {
+          "url": "http://www.fenelon"
+        },
+        {
+          "url": "https://www.fenelon"
+        }
+      ],
+      "social": [
+        {
+          "name": "LinkedIn",
+          "url": "http://www.fenelon"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://www.fenelon"
+        }
+      ],
+      "activities" : [
+        "Réseau",
+        "Développement",
+        "Formation"
+      ],
+      "contacts": [
+        {
+          "firstname": "Nicolas",
+          "lastname": "Co",
+          "email": "nicolas.cosneau@ac-poitiers.fr",
+          "role": "Teacher",
+          "phones": [
+            {
+              "id": "1",
+              "label": "work",
+              "number": "0633333333"
+            },
+            {
+              "id": "2",
+              "label": "personal",
+              "number": "0633333333"
+            }
+          ]
+        },
+        {
+          "firstname": "Pierre",
+          "lastname": "Te",
+          "email": "pierre.tessoneau@ac-poitiers.fr",
+          "role": "Dirigeant",
+          "phones": [
+            {
+              "id": "1",
+              "label": "work",
+              "number": "0633333333"
+            },
+            {
+              "id": "2",
+              "label": "personal",
+              "number": "0633333333"
+            }
+          ]
+        },
+        {
+          "firstname": "Nicolas",
+          "lastname": "Co",
+          "email": "nicolas.cosneau@ac-poitiers.fr",
+          "role": "Tuteur",
+          "phones": [
+            {
+              "id": "1",
+              "label": "work",
+              "number": "0633333333"
+            },
+            {
+              "id": "2",
+              "label": "personal",
+              "number": "0633333333"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
