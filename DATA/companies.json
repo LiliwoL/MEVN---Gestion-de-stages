@@ -11,7 +11,7 @@
         "city": "La Rochelle",
         "country": "France"
       },
-      "phone": {        
+      "phone": {
         "type": "standard",
         "number": "0505050505"
       },
@@ -33,7 +33,7 @@
           "url": "https://www.fenelon"
         }
       ],
-      "activities" : [
+      "activities": [
         "Réseau",
         "Développement",
         "Formation"
@@ -42,7 +42,7 @@
         {
           "firstname": "Nicolas",
           "lastname": "Co",
-          "email": "nicolas.cosneau@ac-poitiers.fr",
+          "email": "nicolu@ac-neverland.fr",
           "role": "Teacher",
           "phones": [
             {
@@ -60,7 +60,7 @@
         {
           "firstname": "Pierre",
           "lastname": "Te",
-          "email": "pierre.tessoneau@ac-poitiers.fr",
+          "email": "pierau@ac-strasbourg.fr",
           "role": "Dirigeant",
           "phones": [
             {
@@ -78,7 +78,7 @@
         {
           "firstname": "Nicolas",
           "lastname": "Co",
-          "email": "nicolas.cosneau@ac-poitiers.fr",
+          "email": "nu@ac-babylon.fr",
           "role": "Tuteur",
           "phones": [
             {
